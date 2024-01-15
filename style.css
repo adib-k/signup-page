@@ -27,9 +27,8 @@ body{
     background: linear-gradient( to top left, #ffffffff, #ffffff33);
     backdrop-filter: blur(8px);
     border-radius: 8px;
-    box-shadow: 2px 2px 8px #3498DB;
+    box-shadow: 2px 2px 5px #3498DB;
     z-index: 2;
-    border: 2px solid #3498DB;
 }
 
 .signup-header h1{
@@ -93,7 +92,7 @@ body{
 }
 
 .circle{
-    background: linear-gradient( to right, #ffffff25, #ffffff33);
+    background: linear-gradient( to right, #ffffff33, #ffffffff);
     width: 200px;
     height: 200px;
     border-radius: 100px;
